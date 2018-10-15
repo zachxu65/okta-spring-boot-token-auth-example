@@ -30,7 +30,7 @@ This will get a copy of the project installed locally. To install all of its dep
 
 ### Create an Application in Okta
 
-You will need to [create an OpenID Connect Application in Okta](https://developer.okta.com/blog/2018/09/26/build-a-spring-boot-webapp#set-up-okta-for-oauth-20-single-sign-on) to get your values to perform authentication. 
+You will need to create an OpenID Connect Application in Okta to get your values to perform authentication. 
 
 Log in to your Okta Developer account (or [sign up](https://developer.okta.com/signup/) if you don’t have an account) and navigate to **Applications** > **Add Application**. Click **Web**, click **Next**, give the app a name you’ll remember, and select "Client Credentials". Click **Done** and copy the `clientId` and `clientSecret` into `src/main/resources/application.yml`. 
 
