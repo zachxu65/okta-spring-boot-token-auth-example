@@ -2,7 +2,7 @@
  
 An example app that shows you how to do token authentication with Java and Spring Boot.
 
-Please read [Simple Token Authentication for Java Apps](https://developer.okta.com/blog/2018/10/16/2018-10-16-token-auth-for-java) to see how this app was created.
+Please read [Simple Token Authentication for Java Apps](https://developer.okta.com/blog/2018/10/16/token-auth-for-java) to see how this app was created.
 
 **Prerequisites:** [Java 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
 
@@ -47,7 +47,7 @@ okta:
 
 **NOTE:** The value of `{yourOktaDomain}` should be something like `dev-123456.oktapreview`. Make sure you don't include `-admin` in the value!
 
-After modifying this file, restart your app and you should be able to authenticate with an access token. Please read the [companion blog post](https://developer.okta.com/blog/2018/10/16/2018-10-16-token-auth-for-java) for additional information.
+After modifying this file, restart your app and you should be able to authenticate with an access token. Please read the [companion blog post](https://developer.okta.com/blog/2018/10/16/token-auth-for-java) for additional information.
 
 ## Links
 
@@ -55,7 +55,7 @@ This example uses [Okta's Spring Boot Starter](https://github.com/okta/okta-spri
 
 ## Help
 
-Please post any questions as comments on the [blog post](https://developer.okta.com/blog/2018/10/16/2018-10-16-token-auth-for-java), or visit our [Okta Developer Forums](https://devforum.okta.com/). You can also email developers@okta.com if you would like to create a support ticket.
+Please post any questions as comments on the [blog post](https://developer.okta.com/blog/2018/10/16/token-auth-for-java), or visit our [Okta Developer Forums](https://devforum.okta.com/). You can also email developers@okta.com if you would like to create a support ticket.
 
 ## License
 
